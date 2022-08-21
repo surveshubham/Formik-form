@@ -1,0 +1,14 @@
+select {
+    margin-right: 3px;
+    height: 30px;
+}
+
+.alert-primary {
+    --bs-alert-color: #000000;
+    --bs-alert-bg: #d9d9d9;
+    --bs-alert-border-color: #000000;
+}
+
+.border.container {
+    margin-bottom: 10px;
+}
